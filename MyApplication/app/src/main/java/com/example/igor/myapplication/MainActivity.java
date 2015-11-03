@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         // foreach petlja
         for(Test t:pomoc.lista){
             Log.d("ispis","korisnik:"+t.lista.indexOf(t)+" "+t.getIme()+t.getPrezime());
-
+            // testni komentar
         }
 
     }
